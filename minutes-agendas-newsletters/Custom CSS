@@ -1,0 +1,9 @@
+table.minagnews_tbl th { text-align: left; 
+  padding-top:25px;
+  padding-bottom:4px;
+  padding-right:10px;
+  padding-left:0px;
+  font-size:130%}
+table.minagnews_tbl td a { display: block; }
+table.minagnews_tbl td { vertical-align:top; }
+table.minagnews_tbl td a { vertical-align:top; }
